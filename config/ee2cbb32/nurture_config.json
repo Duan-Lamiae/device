@@ -1,0 +1,44 @@
+{
+  "auto_open_douyin": true,
+  "max_run_time": 0,
+  "run_time_range": [
+    9,
+    22
+  ],
+  "game_live_keyword": "弹幕游戏直播",
+  "like_probability": 100,
+  "comment_probability": 100,
+  "follow_probability": 100,
+  "share_probability": 10,
+  "watch_interval": [
+    10.0,
+    15.0
+  ],
+  "follow_interval": [
+    5.0,
+    8.0
+  ],
+  "like_interval": [
+    0.1,
+    0.2
+  ],
+  "comment_interval": [
+    5.0,
+    8.0
+  ],
+  "comment_texts": [
+    "真不错👍",
+    "支持一下",
+    "厉害了",
+    "学到了",
+    "666"
+  ],
+  "swipe_interval": [
+    2.0,
+    3.0
+  ],
+  "page_load_interval": [
+    3.0,
+    5.0
+  ]
+}

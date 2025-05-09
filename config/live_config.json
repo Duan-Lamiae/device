@@ -1,0 +1,22 @@
+{
+    "is_auto_open_douyin": true,
+    "max_run_time": 0,
+    "watch_video": {
+        "watch": true,
+        "watch_interval": [
+            10,
+            30
+        ]
+    },
+    "vertical_live": {
+        "watch": true,
+        "vertical_type": "弹幕",
+        "watch_count": 0,
+        "watch_time": 1
+    },
+    "target_room": {
+        "watch": true,
+        "room_name": "@Sawubona",
+        "watch_time": 1
+    }
+}
